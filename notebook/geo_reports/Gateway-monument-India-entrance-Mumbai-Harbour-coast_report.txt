@@ -1,0 +1,25 @@
+Geo-Inference Report
+============================================================
+Timestamp: 2026-04-11 13:01:26
+Image: Gateway-monument-India-entrance-Mumbai-Harbour-coast.webp
+
+1. Visual Understanding
+- BLIP Caption: the gateway of india
+- YOLO Objects: boat x6
+
+2. Geospatial Inputs
+- GPS Source: manual_override
+- Coordinates: 30.0, 80.0
+- Reverse Geocode: Bhainkuno, Kapkot, Bageshwar, Uttarakhand, 263633, India
+
+3. Top-3 Place Hypotheses
+- #1 a harbor waterfront (99.0%)
+    • Place CLIP 0.046
+    • YOLO boat x6
+- #2 Apollo Bunder waterfront in Mumbai (84.18000030517578%)
+    • YOLO boat x6
+- #3 a famous landmark (80.93000030517578%)
+    • Place CLIP 0.577
+
+4. Final Summary
+Most likely location hypothesis: a harbor waterfront (99.0%)

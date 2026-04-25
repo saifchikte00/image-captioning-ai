@@ -1,0 +1,25 @@
+Geo-Inference Report
+============================================================
+Timestamp: 2026-04-11 13:08:47
+Image: testting.jpg
+
+1. Visual Understanding
+- BLIP Caption: the gateway of india
+- YOLO Objects: boat x6
+
+2. Geospatial Inputs
+- GPS Source: none
+- Coordinates: N/A, N/A
+- Reverse Geocode: N/A
+
+3. Top-3 Place Hypotheses
+- #1 a harbor waterfront (99.0%)
+    • Place CLIP 0.046
+    • YOLO boat x6
+- #2 Apollo Bunder waterfront in Mumbai (84.18000030517578%)
+    • YOLO boat x6
+- #3 a famous landmark (80.93000030517578%)
+    • Place CLIP 0.577
+
+4. Final Summary
+Most likely location hypothesis: a harbor waterfront (99.0%)

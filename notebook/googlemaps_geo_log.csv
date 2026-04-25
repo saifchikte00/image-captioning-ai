@@ -1,0 +1,2 @@
+timestamp,image_name,caption,gps_source,lat,lon,reverse_geocode,top1_label,top1_confidence,top2_label,top2_confidence,top3_label,top3_confidence
+2026-04-11 13:48:17,testting.jpg,Likely landmark: a famous tourist landmark in Mumbai | Scene: a famous landmark | Objects: boat x6,manual_override,25.0,85.0,,Apollo Bunder waterfront in Mumbai,99.0,a famous landmark,86.53,a harbor waterfront,81.92

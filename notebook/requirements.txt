@@ -1,0 +1,14 @@
+tensorflow
+numpy
+matplotlib
+pillow
+ipywidgets
+tqdm
+ultralytics
+pandas
+streamlit
+transformers
+torch
+torchvision
+gtts
+sentencepiece

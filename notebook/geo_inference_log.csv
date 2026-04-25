@@ -1,0 +1,7 @@
+timestamp,image_name,gps_source,lat,lon,caption,clip_top1,clip_top2,clip_top3,yolo_summary,places_summary,reverse_display,hyp1,hyp1_conf,hyp2,hyp2_conf,hyp3,hyp3_conf
+2026-04-11 11:54:10,Gateway-monument-India-entrance-Mumbai-Harbour-coast.webp,none,,,,,,,None / unavailable,Unavailable / skipped,,,,,,,
+2026-04-11 11:55:02,Gateway-monument-India-entrance-Mumbai-Harbour-coast.webp,manual_override,18.0,79.0,,,,,None / unavailable,Unavailable / skipped,"Arjunapatla, Maddur mandal, Siddipet, Telangana, India",a tropical urban street,100.0,,,,
+2026-04-11 11:58:17,Gateway-monument-India-entrance-Mumbai-Harbour-coast.webp,manual_override,25.0,75.0,,,,,None / unavailable,Unavailable / skipped,"Jainagar, Begun Tehsil, Chittorgarh, Rajasthan, 312023, India",a tropical urban street,100.0,,,,
+2026-04-11 12:00:50,Gateway-monument-India-entrance-Mumbai-Harbour-coast.webp,manual_override,30.0,95.0,,,,,None / unavailable,Unavailable / skipped,"排龙, 鲁朗镇, 巴宜区 བྲག་ཡིབ་ཆུས།, 林芝市 ཉིང་ཁྲི་གྲོང་ཁྱེར།, 西藏自治区 བོད་རང་སྐྱོང་ལྗོངས།, 860000, 中国",,,,,,
+2026-04-11 13:01:26,Gateway-monument-India-entrance-Mumbai-Harbour-coast.webp,the gateway of india,manual_override,30.0,80.0,"Bhainkuno, Kapkot, Bageshwar, Uttarakhand, 263633, India",a harbor waterfront,99.0,Apollo Bunder waterfront in Mumbai,84.18,a famous landmark,80.93
+2026-04-11 13:08:47,testting.jpg,the gateway of india,none,,,,a harbor waterfront,99.0,Apollo Bunder waterfront in Mumbai,84.18,a famous landmark,80.93

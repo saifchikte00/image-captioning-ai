@@ -1,0 +1,9 @@
+Image: testting.jpg
+Caption: Likely landmark: a famous tourist landmark in Mumbai | Scene: a famous landmark | Objects: boat x6
+GPS Source: manual_override
+Coordinates: 25.0, 85.0
+Google Reverse Geocode: None
+Top-3 Hypotheses:
+  #1 Apollo Bunder waterfront in Mumbai (99.0%)
+  #2 a famous landmark (86.52999877929688%)
+  #3 a harbor waterfront (81.91999816894531%)
